@@ -10,10 +10,14 @@
 ---
 Headerceptor is a Burp Suite extension which offers adding custom/user-defined headers to incoming HTTP traffic hassle-free.
 
+### Screenshot
+---
+![image](https://github.com/254Labs/headerceptor/assets/36628352/bd75eb4a-efa6-48f1-886a-e8a0ee4cc6ae)
+
 ### Download and install
 ---
 You can download the extension from the [releases](https://github.com/254Labs/headerceptor/releases) page.<br/>
-Follow [Installing Headerceptor](https://github.com/254Labs/headerceptor/wiki/Installing-Headerceptor) to successfully complete the installation. 
+Follow [Installing Headerceptor](https://github.com/254Labs/headerceptor/wiki/Installing-Headerceptor) to successfully complete the installation.
 
 ### Documentation
 ---
